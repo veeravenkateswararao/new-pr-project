@@ -31,7 +31,8 @@
 <body>
 
 <div class="box">
-    <h1>Welcome to Venky DevOps Project</h1>
+    <h1>Welcome to Abc DevOps Project</h1>
+    <h2>Welcome to TES Course</h2>
     <p>Application is running successfully!</p>
     <p>Deployed using Docker + Kubernetes</p>
 </div>
